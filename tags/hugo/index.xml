@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on 致郁系</title>
+    <link>https://juroku16.github.io/tags/hugo.html</link>
+    <description>Recent content in Hugo on 致郁系</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <copyright>© 致郁系</copyright>
+    <lastBuildDate>Fri, 06 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://juroku16.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>折腾</title>
+      <link>https://juroku16.github.io/posts/20250606.html</link>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://juroku16.github.io/posts/20250606.html</guid>
+      <description>&lt;p&gt;连续奋战几晚的成果——一个简陋的静态博客完成了hhh。&lt;/p&gt;&#xA;&lt;p&gt;有点怀念以前（有点）机灵（但不多）的自己了TvT，markdown也在学习中！&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
